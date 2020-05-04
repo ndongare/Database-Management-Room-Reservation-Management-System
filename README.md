@@ -1,5 +1,4 @@
 # Database-Management-Room-Reservation-Management-System
-Database Management System for Room Reservation
 
 The project is a database solution for Concord Housing which rents properties to customers in New York. Concord Housing has around 50 properties which it rents out to customers for a temporary period. It also provides additional facilities like food and other recreational facilities to the customers during their stay at Concord Housing. The organization is handled by the main owner of the company and caretakers of each property. The customer has to reserve a property by physically being present at the booking place with some amount of advance payment. The customer has to provide his ID proof at the time of making a reservation and also while check-in.
 
